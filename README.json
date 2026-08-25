@@ -15,7 +15,7 @@
             "last_commit": "2022-02-06T20:31:09Z",
             "owner": "mikeroyal",
             "repo": "CoreML-Guide",
-            "stars": 91
+            "stars": 92
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2022-02-06T20:31:09Z",
             "owner": "mikeroyal",
             "repo": "CoreML-Guide",
-            "stars": 91
+            "stars": 92
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2022-02-06T20:31:09Z",
             "owner": "mikeroyal",
             "repo": "CoreML-Guide",
-            "stars": 91
+            "stars": 92
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2022-02-06T20:31:09Z",
             "owner": "mikeroyal",
             "repo": "CoreML-Guide",
-            "stars": 91
+            "stars": 92
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2022-02-06T20:31:09Z",
             "owner": "mikeroyal",
             "repo": "CoreML-Guide",
-            "stars": 91
+            "stars": 92
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2022-02-06T20:31:09Z",
             "owner": "mikeroyal",
             "repo": "CoreML-Guide",
-            "stars": 91
+            "stars": 92
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2022-02-06T20:31:09Z",
             "owner": "mikeroyal",
             "repo": "CoreML-Guide",
-            "stars": 91
+            "stars": 92
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2022-02-06T20:31:09Z",
             "owner": "mikeroyal",
             "repo": "CoreML-Guide",
-            "stars": 91
+            "stars": 92
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2022-02-06T20:31:09Z",
             "owner": "mikeroyal",
             "repo": "CoreML-Guide",
-            "stars": 91
+            "stars": 92
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2022-02-06T20:31:09Z",
             "owner": "mikeroyal",
             "repo": "CoreML-Guide",
-            "stars": 91
+            "stars": 92
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2022-02-06T20:31:09Z",
             "owner": "mikeroyal",
             "repo": "CoreML-Guide",
-            "stars": 91
+            "stars": 92
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2022-02-06T20:31:09Z",
             "owner": "mikeroyal",
             "repo": "CoreML-Guide",
-            "stars": 91
+            "stars": 92
           }
         }
       ],
@@ -275,7 +275,7 @@
                 "last_commit": "2024-07-31T23:10:28Z",
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34558
+                "stars": 34556
               }
             },
             {
@@ -362,10 +362,10 @@
                 "archived": false,
                 "id": 3659275,
                 "language": "Python",
-                "last_commit": "2026-08-25T06:02:21Z",
+                "last_commit": "2026-08-25T22:02:02Z",
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11127
+                "stars": 11128
               }
             },
             {
@@ -377,7 +377,7 @@
                 "archived": false,
                 "id": 152616802,
                 "language": "Python",
-                "last_commit": "2026-08-25T00:45:05Z",
+                "last_commit": "2026-08-25T22:16:18Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5261
@@ -511,7 +511,7 @@
                 "last_commit": "2024-07-31T23:10:28Z",
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34558
+                "stars": 34556
               }
             },
             {
@@ -553,10 +553,10 @@
                 "archived": false,
                 "id": 3659275,
                 "language": "Python",
-                "last_commit": "2026-08-25T06:02:21Z",
+                "last_commit": "2026-08-25T22:02:02Z",
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11127
+                "stars": 11128
               }
             }
           ],
@@ -581,7 +581,7 @@
                 "archived": false,
                 "id": 45497910,
                 "language": "Markdown",
-                "last_commit": "2026-08-25T03:52:28Z",
+                "last_commit": "2026-08-25T23:19:49Z",
                 "owner": "swiftlang",
                 "repo": "swift-evolution",
                 "stars": 15868
@@ -596,10 +596,10 @@
                 "archived": false,
                 "id": 44838949,
                 "language": "Swift",
-                "last_commit": "2026-08-25T06:30:11Z",
+                "last_commit": "2026-08-25T23:35:50Z",
                 "owner": "swiftlang",
                 "repo": "swift",
-                "stars": 70282
+                "stars": 70289
               }
             }
           ],
@@ -618,7 +618,7 @@
                 "archived": false,
                 "id": 49910095,
                 "language": "Swift",
-                "last_commit": "2026-08-24T23:02:58Z",
+                "last_commit": "2026-08-25T23:03:24Z",
                 "owner": "vapor",
                 "repo": "vapor",
                 "stars": 26193
@@ -636,7 +636,7 @@
                 "last_commit": "2025-01-23T20:27:30Z",
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22488
+                "stars": 22487
               }
             },
             {
@@ -648,10 +648,10 @@
                 "archived": false,
                 "id": 33486016,
                 "language": "Swift",
-                "last_commit": "2026-08-25T02:08:04Z",
+                "last_commit": "2026-08-25T15:09:33Z",
                 "owner": "onevcat",
                 "repo": "Kingfisher",
-                "stars": 24392
+                "stars": 24393
               }
             },
             {
@@ -666,7 +666,7 @@
                 "last_commit": "2026-06-14T23:57:29Z",
                 "owner": "realm",
                 "repo": "realm-swift",
-                "stars": 16611
+                "stars": 16612
               }
             },
             {
@@ -681,7 +681,7 @@
                 "last_commit": "2024-02-03T15:38:39Z",
                 "owner": "PerfectlySoft",
                 "repo": "Perfect",
-                "stars": 13744
+                "stars": 13743
               }
             },
             {
@@ -711,7 +711,7 @@
                 "last_commit": "2024-09-12T17:04:03Z",
                 "owner": "xmartlabs",
                 "repo": "Eureka",
-                "stars": 11804
+                "stars": 11803
               }
             },
             {
@@ -769,7 +769,7 @@
                 "last_commit": "2026-06-14T23:57:29Z",
                 "owner": "realm",
                 "repo": "realm-swift",
-                "stars": 16611
+                "stars": 16612
               }
             },
             {
@@ -781,10 +781,10 @@
                 "archived": false,
                 "id": 29857799,
                 "language": "OCaml",
-                "last_commit": "2026-08-24T17:51:05Z",
+                "last_commit": "2026-08-25T12:22:25Z",
                 "owner": "facebook",
                 "repo": "infer",
-                "stars": 15687
+                "stars": 15689
               }
             },
             {
@@ -844,7 +844,7 @@
                 "last_commit": "2026-07-08T21:13:24Z",
                 "owner": "Hammerspoon",
                 "repo": "hammerspoon",
-                "stars": 15988
+                "stars": 15989
               }
             },
             {
@@ -887,7 +887,7 @@
                 "last_commit": "2026-08-06T15:54:13Z",
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45266
+                "stars": 45270
               }
             }
           ],
@@ -906,10 +906,10 @@
                 "archived": false,
                 "id": 68312233,
                 "language": "CMake",
-                "last_commit": "2026-08-25T01:20:49Z",
+                "last_commit": "2026-08-25T19:57:27Z",
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27391
+                "stars": 27395
               }
             },
             {
@@ -924,7 +924,7 @@
                 "last_commit": "2026-05-18T12:47:02Z",
                 "owner": "mono",
                 "repo": "CppSharp",
-                "stars": 3403
+                "stars": 3404
               }
             },
             {
@@ -969,7 +969,7 @@
                 "last_commit": "2026-08-08T10:51:08Z",
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29520
+                "stars": 29521
               }
             }
           ],
@@ -1064,7 +1064,7 @@
                 "last_commit": "2026-07-01T08:19:02Z",
                 "owner": "google",
                 "repo": "python-fire",
-                "stars": 28204
+                "stars": 28206
               }
             },
             {
@@ -1094,7 +1094,7 @@
                 "last_commit": "2026-07-29T03:09:51Z",
                 "owner": "sanic-org",
                 "repo": "sanic",
-                "stars": 18644
+                "stars": 18645
               }
             },
             {
@@ -1139,7 +1139,7 @@
                 "last_commit": "2026-08-24T09:06:41Z",
                 "owner": "locustio",
                 "repo": "locust",
-                "stars": 28097
+                "stars": 28098
               }
             },
             {
@@ -1154,7 +1154,7 @@
                 "last_commit": "2026-08-24T08:26:10Z",
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 33841
+                "stars": 33847
               }
             }
           ],
@@ -1176,7 +1176,7 @@
                 "last_commit": "2022-02-06T20:31:09Z",
                 "owner": "mikeroyal",
                 "repo": "CoreML-Guide",
-                "stars": 91
+                "stars": 92
               }
             }
           ],
@@ -1189,7 +1189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:36:12.792Z",
+    "last_updated": "2026-08-25T23:41:23.025Z",
     "original_repository": "mikeroyal/CoreML-Guide",
     "original_repository_id": 403407804,
     "original_repository_sha": "2cd6e35b7c8cf7a8591ca4292cfc2da28a4a6cdb",
