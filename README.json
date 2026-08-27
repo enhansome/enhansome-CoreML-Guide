@@ -377,7 +377,7 @@
                 "archived": false,
                 "id": 152616802,
                 "language": "Python",
-                "last_commit": "2026-08-26T23:07:18Z",
+                "last_commit": "2026-08-27T11:29:45Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5264
@@ -596,10 +596,10 @@
                 "archived": false,
                 "id": 44838949,
                 "language": "Swift",
-                "last_commit": "2026-08-27T03:33:58Z",
+                "last_commit": "2026-08-27T11:03:12Z",
                 "owner": "swiftlang",
                 "repo": "swift",
-                "stars": 70301
+                "stars": 70300
               }
             }
           ],
@@ -651,7 +651,7 @@
                 "last_commit": "2026-08-25T15:09:33Z",
                 "owner": "onevcat",
                 "repo": "Kingfisher",
-                "stars": 24395
+                "stars": 24394
               }
             },
             {
@@ -696,7 +696,7 @@
                 "last_commit": "2026-08-03T01:00:57Z",
                 "owner": "Alamofire",
                 "repo": "Alamofire",
-                "stars": 42422
+                "stars": 42423
               }
             },
             {
@@ -781,10 +781,10 @@
                 "archived": false,
                 "id": 29857799,
                 "language": "OCaml",
-                "last_commit": "2026-08-25T12:22:25Z",
+                "last_commit": "2026-08-27T11:11:18Z",
                 "owner": "facebook",
                 "repo": "infer",
-                "stars": 15690
+                "stars": 15691
               }
             },
             {
@@ -887,7 +887,7 @@
                 "last_commit": "2026-08-06T15:54:13Z",
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45278
+                "stars": 45280
               }
             }
           ],
@@ -909,7 +909,7 @@
                 "last_commit": "2026-08-26T19:17:53Z",
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27401
+                "stars": 27403
               }
             },
             {
@@ -924,7 +924,7 @@
                 "last_commit": "2026-05-18T12:47:02Z",
                 "owner": "mono",
                 "repo": "CppSharp",
-                "stars": 3405
+                "stars": 3406
               }
             },
             {
@@ -969,7 +969,7 @@
                 "last_commit": "2026-08-08T10:51:08Z",
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29528
+                "stars": 29530
               }
             }
           ],
@@ -1034,7 +1034,7 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38458
+                "stars": 38460
               }
             },
             {
@@ -1049,7 +1049,7 @@
                 "last_commit": "2026-08-24T22:09:52Z",
                 "owner": "pypa",
                 "repo": "pipenv",
-                "stars": 25036
+                "stars": 25035
               }
             },
             {
@@ -1139,7 +1139,7 @@
                 "last_commit": "2026-08-26T17:46:29Z",
                 "owner": "locustio",
                 "repo": "locust",
-                "stars": 28104
+                "stars": 28107
               }
             },
             {
@@ -1154,7 +1154,7 @@
                 "last_commit": "2026-08-24T08:26:10Z",
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 33849
+                "stars": 33854
               }
             }
           ],
@@ -1189,9 +1189,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:32:37.571Z",
-    "original_repository": "mikeroyal/CoreML-Guide",
-    "original_repository_id": 403407804,
+    "last_updated": "2026-08-27T11:31:02.411Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 403407804,
+      "language": "Swift",
+      "last_commit": "2022-02-06T20:31:09Z",
+      "owner": "mikeroyal",
+      "repo": "CoreML-Guide",
+      "stars": 92
+    },
     "original_repository_sha": "2cd6e35b7c8cf7a8591ca4292cfc2da28a4a6cdb",
     "enhanced_repository": "enhansome/enhansome-CoreML-Guide",
     "enhanced_repository_description": null,
