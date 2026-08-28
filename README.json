@@ -16,7 +16,8 @@
             "owner": "mikeroyal",
             "repo": "CoreML-Guide",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T06:57:08.701Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mikeroyal",
             "repo": "CoreML-Guide",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T06:57:08.701Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "mikeroyal",
             "repo": "CoreML-Guide",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T06:57:08.701Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "mikeroyal",
             "repo": "CoreML-Guide",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T06:57:08.701Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "mikeroyal",
             "repo": "CoreML-Guide",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T06:57:08.701Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "mikeroyal",
             "repo": "CoreML-Guide",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T06:57:08.701Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "mikeroyal",
             "repo": "CoreML-Guide",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T06:57:08.701Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "mikeroyal",
             "repo": "CoreML-Guide",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T06:57:08.701Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "mikeroyal",
             "repo": "CoreML-Guide",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T06:57:08.701Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "mikeroyal",
             "repo": "CoreML-Guide",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T06:57:08.701Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "mikeroyal",
             "repo": "CoreML-Guide",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T06:57:08.701Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "mikeroyal",
             "repo": "CoreML-Guide",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T06:57:08.701Z"
         }
       ],
       "title": "A guide covering Core ML including the applications, libraries and tools that will make you a better and more efficient Core ML development."
@@ -202,7 +214,8 @@
             "owner": "apple",
             "repo": "tensorflow_macos",
             "stars": 3648
-          }
+          },
+          "first_seen": "2026-08-28T06:57:08.701Z"
         }
       ],
       "title": "Core ML Tools, Libraries, and Frameworks"
@@ -223,7 +236,8 @@
             "owner": "apple",
             "repo": "tensorflow_macos",
             "stars": 3648
-          }
+          },
+          "first_seen": "2026-08-28T06:57:08.701Z"
         }
       ],
       "title": "Apple Silicon"
@@ -246,7 +260,8 @@
                 "owner": "apple",
                 "repo": "tensorflow_macos",
                 "stars": 3648
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -261,7 +276,8 @@
                 "owner": "plaidml",
                 "repo": "plaidml",
                 "stars": 4566
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -276,7 +292,8 @@
                 "owner": "BVLC",
                 "repo": "caffe",
                 "stars": 34556
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -291,7 +308,8 @@
                 "owner": "Theano",
                 "repo": "Theano",
                 "stars": 9998
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -306,7 +324,8 @@
                 "owner": "NervanaSystems",
                 "repo": "ngraph",
                 "stars": 1344
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -321,7 +340,8 @@
                 "owner": "microsoft",
                 "repo": "sql-spark-connector",
                 "stars": 287
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -336,7 +356,8 @@
                 "owner": "yahoo",
                 "repo": "CMAK",
                 "stars": 11925
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -351,7 +372,8 @@
                 "owner": "pop-os",
                 "repo": "tensorman",
                 "stars": 206
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -362,11 +384,12 @@
                 "archived": false,
                 "id": 3659275,
                 "language": "Python",
-                "last_commit": "2026-08-26T00:16:18Z",
+                "last_commit": "2026-08-27T16:05:16Z",
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11130
-              }
+                "stars": 11131
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -377,11 +400,12 @@
                 "archived": false,
                 "id": 152616802,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:29:45Z",
+                "last_commit": "2026-08-27T17:25:39Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5264
-              }
+                "stars": 5265
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             }
           ],
           "description": "TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.\nKeras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.It was developed with a focus on enabling fast experimentation. It is capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, R, Theano, or PlaidML.\nPyTorch is a library for deep learning on irregular input data such as graphs, point clouds, and manifolds. Primarily developed by Facebook's AI Research lab.\nAmazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly. SageMaker removes the heavy lifting from each step of the machine learning process to make it easier to develop high quality models.\nAzure Databricks is a fast and collaborative Apache Spark-based big data analytics service designed for data science and data engineering. Azure Databricks, sets up your Apache Spark environment in minutes, autoscale, and collaborate on shared projects in an interactive workspace. Azure Databricks supports Python, Scala, R, Java, and SQL, as well as data science frameworks and libraries including TensorFlow, PyTorch, and scikit-learn.\nMicrosoft Cognitive Toolkit (CNTK) is an open-source toolkit for commercial-grade distributed deep learning. It describes neural networks as a series of computational steps via a directed graph. CNTK allows the user to easily realize and combine popular model types such as feed-forward DNNs, convolutional neural networks (CNNs) and recurrent neural networks (RNNs/LSTMs). CNTK implements stochastic gradient descent (SGD, error backpropagation) learning with automatic differentiation and parallelization across multiple GPUs and servers.\nApple CoreML is a framework that helps integrate machine learning models into your app. Core ML provides a unified representation for all models. Your app uses Core ML APIs and user data to make predictions, and to train or fine-tune models, all on the user's device. A model is the result of applying a machine learning algorithm to a set of training data. You use a model to make predictions based on new input data.\nApache OpenNLP is an open-source library for a machine learning based toolkit used in the processing of natural language text. It features an API for use cases like Named Entity Recognition, Sentence Detection, POS(Part-Of-Speech) tagging, Tokenization Feature extraction, Chunking, Parsing, and Coreference resolution.\nApache Airflow is an open-source workflow management platform created by the community to programmatically author, schedule and monitor workflows. Install. Principles. Scalable. Airflow has a modular architecture and uses a message queue to orchestrate an arbitrary number of workers. Airflow is ready to scale to infinity.\nOpen Neural Network Exchange(ONNX) is an open ecosystem that empowers AI developers to choose the right tools as their project evolves. ONNX provides an open source format for AI models, both deep learning and traditional ML. It defines an extensible computation graph model, as well as definitions of built-in operators and standard data types.\nApache MXNet is a deep learning framework designed for both efficiency and flexibility. It allows you to mix symbolic and imperative programming to maximize efficiency and productivity. At its core, MXNet contains a dynamic dependency scheduler that automatically parallelizes both symbolic and imperative operations on the fly. A graph optimization layer on top of that makes symbolic execution fast and memory efficient. MXNet is portable and lightweight, scaling effectively to multiple GPUs and multiple machines. Support for Python, R, Julia, Scala, Go, Javascript and more.\nAutoGluon is toolkit for Deep learning that automates machine learning tasks enabling you to easily achieve strong predictive performance in your applications. With just a few lines of code, you can train and deploy high-accuracy deep learning models on tabular, image, and text data.\nAnaconda is a very popular Data Science platform for machine learning and deep learning that enables users to develop models, train them, and deploy them.\nOpenCV is a highly optimized library with focus on real-time computer vision applications. The C++, Python, and Java interfaces support Linux, MacOS, Windows, iOS, and Android.\nScikit-Learn is a Python module for machine learning built on top of SciPy, NumPy, and matplotlib, making it easier to apply robust and simple implementations of many popular machine learning algorithms.\nWeka is an open source machine learning software that can be accessed through a graphical user interface, standard terminal applications, or a Java API. It is widely used for teaching, research, and industrial applications, contains a plethora of built-in tools for standard machine learning tasks, and additionally gives transparent access to well-known toolboxes such as scikit-learn, R, and Deeplearning4j.\nNVIDIA cuDNN is a GPU-accelerated library of primitives for deep neural networks. cuDNN provides highly tuned implementations for standard routines such as forward and backward convolution, pooling, normalization, and activation layers. cuDNN accelerates widely used deep learning frameworks, including Caffe2, Chainer, Keras, MATLAB, MxNet, PyTorch, and TensorFlow.\nJupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Jupyter is used widely in industries that do data cleaning and transformation, numerical simulation, statistical modeling, data visualization, data science, and machine learning.\nApache Spark is a unified analytics engine for large-scale data processing. It provides high-level APIs in Scala, Java, Python, and R, and an optimized engine that supports general computation graphs for data analysis. It also supports a rich set of higher-level tools including Spark SQL for SQL and DataFrames, MLlib for machine learning, GraphX for graph processing, and Structured Streaming for stream processing.\nApache PredictionIO is an open source machine learning framework for developers, data scientists, and end users. It supports event collection, deployment of algorithms, evaluation, querying predictive results via REST APIs. It is based on scalable open source services like Hadoop, HBase (and other DBs), Elasticsearch, Spark and implements what is called a Lambda Architecture.\nBigDL is a distributed deep learning library for Apache Spark. With BigDL, users can write their deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters.\nEclipse Deeplearning4J (DL4J) is a set of projects intended to support all the needs of a JVM-based(Scala, Kotlin, Clojure, and Groovy) deep learning application. This means starting with the raw data, loading and preprocessing it from wherever and whatever format it is in to building and tuning a wide variety of simple and complex deep learning networks.\nChainer is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using CuPy for high performance training and inference.\nXGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. It supports distributed training on multiple machines, including AWS, GCE, Azure, and Yarn clusters. Also, it can be integrated with Flink, Spark and other cloud dataflow systems.",
@@ -409,7 +433,8 @@
                 "owner": "andrewssobral",
                 "repo": "lrslibrary",
                 "stars": 886
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             }
           ],
           "description": "OpenCV is a highly optimized library with focus on real-time computer vision applications. The C++, Python, and Java interfaces support Linux, MacOS, Windows, iOS, and Android.\nMicrosoft Cognitive Toolkit (CNTK) is an open-source toolkit for commercial-grade distributed deep learning. It describes neural networks as a series of computational steps via a directed graph. CNTK allows the user to easily realize and combine popular model types such as feed-forward DNNs, convolutional neural networks (CNNs) and recurrent neural networks (RNNs/LSTMs). CNTK implements stochastic gradient descent (SGD, error backpropagation) learning with automatic differentiation and parallelization across multiple GPUs and servers.\nScikit-Learn is a Python module for machine learning built on top of SciPy, NumPy, and matplotlib, making it easier to apply robust and simple implementations of many popular machine learning algorithms.\nNVIDIA cuDNN is a GPU-accelerated library of primitives for deep neural networks. cuDNN provides highly tuned implementations for standard routines such as forward and backward convolution, pooling, normalization, and activation layers. cuDNN accelerates widely used deep learning frameworks, including Caffe2, Chainer, Keras, MATLAB, MxNet, PyTorch, and TensorFlow.\nAutomated Driving Toolbox™ is a MATLAB tool that provides algorithms and tools for designing, simulating, and testing ADAS and autonomous driving systems. You can design and test vision and lidar perception systems, as well as sensor fusion, path planning, and vehicle controllers. Visualization tools include a bird’s-eye-view plot and scope for sensor coverage, detections and tracks, and displays for video, lidar, and maps. The toolbox lets you import and work with HERE HD Live Map data and OpenDRIVE® road networks. It also provides reference application examples for common ADAS and automated driving features, including FCW, AEB, ACC, LKA, and parking valet. The toolbox supports C/C++ code generation for rapid prototyping and HIL testing, with support for sensor fusion, tracking, path planning, and vehicle controller algorithms.\nImage Processing Toolbox™ is a tool that provides a comprehensive set of reference-standard algorithms and workflow apps for image processing, analysis, visualization, and algorithm development. You can perform image segmentation, image enhancement, noise reduction, geometric transformations, image registration, and 3D image processing.\nComputer Vision Toolbox™ is a tool that provides algorithms, functions, and apps for designing and testing computer vision, 3D vision, and video processing systems. You can perform object detection and tracking, as well as feature detection, extraction, and matching. You can automate calibration workflows for single, stereo, and fisheye cameras. For 3D vision, the toolbox supports visual and point cloud SLAM, stereo vision, structure from motion, and point cloud processing.\nStatistics and Machine Learning Toolbox™ is a tool that provides functions and apps to describe, analyze, and model data. You can use descriptive statistics, visualizations, and clustering for exploratory data analysis; fit probability distributions to data; generate random numbers for Monte Carlo simulations, and perform hypothesis tests. Regression and classification algorithms let you draw inferences from data and build predictive models either interactively, using the Classification and Regression Learner apps, or programmatically, using AutoML.\nLidar Toolbox™ is a tool that provides algorithms, functions, and apps for designing, analyzing, and testing lidar processing systems. You can perform object detection and tracking, semantic segmentation, shape fitting, lidar registration, and obstacle detection. Lidar Toolbox supports lidar-camera cross calibration for workflows that combine computer vision and lidar processing.\nMapping Toolbox™ is a tool that provides algorithms and functions for transforming geographic data and creating map displays. You can visualize your data in a geographic context, build map displays from more than 60 map projections, and transform data from a variety of sources into a consistent geographic coordinate system.\nUAV Toolbox is an application that provides tools and reference applications for designing, simulating, testing, and deploying unmanned aerial vehicle (UAV) and drone applications. You can design autonomous flight algorithms, UAV missions, and flight controllers. The Flight Log Analyzer app lets you interactively analyze 3D flight paths, telemetry information, and sensor readings from common flight log formats.\nParallel Computing Toolbox™ is a tool that lets you solve computationally and data-intensive problems using multicore processors, GPUs, and computer clusters. High-level constructs such as parallel for-loops, special array types, and parallelized numerical algorithms enable you to parallelize MATLAB® applications without CUDA or MPI programming. The toolbox lets you use parallel-enabled functions in MATLAB and other toolboxes. You can use the toolbox with Simulink® to run multiple simulations of a model in parallel. Programs and models can run in both interactive and batch modes.\nPartial Differential Equation Toolbox™ is a tool that provides functions for solving structural mechanics, heat transfer, and general partial differential equations (PDEs) using finite element analysis.\nROS Toolbox is a tool that provides an interface connecting MATLAB® and Simulink® with the Robot Operating System (ROS and ROS 2), enabling you to create a network of ROS nodes. The toolbox includes MATLAB functions and Simulink blocks to import, analyze, and play back ROS data recorded in rosbag files. You can also connect to a live ROS network to access ROS messages.\nRobotics Toolbox™ provides a toolbox that brings robotics specific functionality(designing, simulating, and testing manipulators, mobile robots, and humanoid robots) to MATLAB, exploiting the native capabilities of MATLAB (linear algebra, portability, graphics). The toolbox also supports mobile robots with functions for robot motion models (bicycle), path planning algorithms (bug, distance transform, D*, PRM), kinodynamic planning (lattice, RRT), localization (EKF, particle filter), map building (EKF) and simultaneous localization and mapping (EKF), and a Simulink model a of non-holonomic vehicle. The Toolbox also including a detailed Simulink model for a quadrotor flying robot.\nDeep Learning Toolbox™ is a tool that provides a framework for designing and implementing deep neural networks with algorithms, pretrained models, and apps. You can use convolutional neural networks (ConvNets, CNNs) and long short-term memory (LSTM) networks to perform classification and regression on image, time-series, and text data. You can build network architectures such as generative adversarial networks (GANs) and Siamese networks using automatic differentiation, custom training loops, and shared weights. With the Deep Network Designer app, you can design, analyze, and train networks graphically. It can exchange models with TensorFlow™ and PyTorch through the ONNX format and import models from TensorFlow-Keras and Caffe. The toolbox supports transfer learning with DarkNet-53, ResNet-50, NASNet, SqueezeNet and many other pretrained models.\nReinforcement Learning Toolbox™ is a tool that provides an app, functions, and a Simulink® block for training policies using reinforcement learning algorithms, including DQN, PPO, SAC, and DDPG. You can use these policies to implement controllers and decision-making algorithms for complex applications such as resource allocation, robotics, and autonomous systems.\nDeep Learning HDL Toolbox™ is a tool that provides functions and tools to prototype and implement deep learning networks on FPGAs and SoCs. It provides pre-built bitstreams for running a variety of deep learning networks on supported Xilinx® and Intel® FPGA and SoC devices. Profiling and estimation tools let you customize a deep learning network by exploring design, performance, and resource utilization tradeoffs.\nModel Predictive Control Toolbox™ is a tool that provides functions, an app, and Simulink® blocks for designing and simulating controllers using linear and nonlinear model predictive control (MPC). The toolbox lets you specify plant and disturbance models, horizons, constraints, and weights. By running closed-loop simulations, you can evaluate controller performance.\nVision HDL Toolbox™ is a tool that provides pixel-streaming algorithms for the design and implementation of vision systems on FPGAs and ASICs. It provides a design framework that supports a diverse set of interface types, frame sizes, and frame rates. The image processing, video, and computer vision algorithms in the toolbox use an architecture appropriate for HDL implementations.\nMicrosoft AirSim is a simulator for drones, cars and more, built on Unreal Engine (with an experimental Unity release). AirSim is open-source, cross platform, and supports software-in-the-loop simulation with popular flight controllers such as PX4 & ArduPilot and hardware-in-loop with PX4 for physically and visually realistic simulations. It is developed as an Unreal plugin that can simply be dropped into any Unreal environment. AirSim is being developed as a platform for AI research to experiment with deep learning, computer vision and reinforcement learning algorithms for autonomous vehicles.",
@@ -437,7 +462,8 @@
                 "owner": "erickrf",
                 "repo": "nlpnet",
                 "stars": 405
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -452,7 +478,8 @@
                 "owner": "flairNLP",
                 "repo": "flair",
                 "stars": 14384
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -467,7 +494,8 @@
                 "owner": "curiosity-ai",
                 "repo": "catalyst",
                 "stars": 858
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -482,7 +510,8 @@
                 "owner": "apple",
                 "repo": "tensorflow_macos",
                 "stars": 3648
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -497,7 +526,8 @@
                 "owner": "plaidml",
                 "repo": "plaidml",
                 "stars": 4566
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -512,7 +542,8 @@
                 "owner": "BVLC",
                 "repo": "caffe",
                 "stars": 34556
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -527,7 +558,8 @@
                 "owner": "Theano",
                 "repo": "Theano",
                 "stars": 9998
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -542,7 +574,8 @@
                 "owner": "microsoft",
                 "repo": "sql-spark-connector",
                 "stars": 287
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -553,11 +586,12 @@
                 "archived": false,
                 "id": 3659275,
                 "language": "Python",
-                "last_commit": "2026-08-26T00:16:18Z",
+                "last_commit": "2026-08-27T16:05:16Z",
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11130
-              }
+                "stars": 11131
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             }
           ],
           "description": "Natural Language Toolkit (NLTK) is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries.\nspaCy is a library for advanced Natural Language Processing in Python and Cython. It's built on the very latest research, and was designed from day one to be used in real products. spaCy comes with pretrained pipelines and currently supports tokenization and training for 60+ languages. It also features neural network models for tagging, parsing, named entity recognition, text classification and more, multi-task learning with pretrained transformers like BERT.\nCoreNLP is a set of natural language analysis tools written in Java. CoreNLP enables users to derive linguistic annotations for text, including token and sentence boundaries, parts of speech, named entities, numeric and time values, dependency and constituency parses, coreference, sentiment, quote attributions, and relations.\nApache OpenNLP is an open-source library for a machine learning based toolkit used in the processing of natural language text. It features an API for use cases like Named Entity Recognition, Sentence Detection, POS(Part-Of-Speech) tagging, Tokenization Feature extraction, Chunking, Parsing, and Coreference resolution.\nMicrosoft Cognitive Toolkit (CNTK) is an open-source toolkit for commercial-grade distributed deep learning. It describes neural networks as a series of computational steps via a directed graph. CNTK allows the user to easily realize and combine popular model types such as feed-forward DNNs, convolutional neural networks (CNNs) and recurrent neural networks (RNNs/LSTMs). CNTK implements stochastic gradient descent (SGD, error backpropagation) learning with automatic differentiation and parallelization across multiple GPUs and servers.\nNVIDIA cuDNN is a GPU-accelerated library of primitives for deep neural networks. cuDNN provides highly tuned implementations for standard routines such as forward and backward convolution, pooling, normalization, and activation layers. cuDNN accelerates widely used deep learning frameworks, including Caffe2, Chainer, Keras, MATLAB, MxNet, PyTorch, and TensorFlow.\nTensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.\nKeras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.It was developed with a focus on enabling fast experimentation. It is capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, R, Theano, or PlaidML.\nPyTorch is a library for deep learning on irregular input data such as graphs, point clouds, and manifolds. Primarily developed by Facebook's AI Research lab.\nEclipse Deeplearning4J (DL4J) is a set of projects intended to support all the needs of a JVM-based(Scala, Kotlin, Clojure, and Groovy) deep learning application. This means starting with the raw data, loading and preprocessing it from wherever and whatever format it is in to building and tuning a wide variety of simple and complex deep learning networks.\nChainer is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using CuPy for high performance training and inference.\nAnaconda is a very popular Data Science platform for machine learning and deep learning that enables users to develop models, train them, and deploy them.\nScikit-Learn is a Python module for machine learning built on top of SciPy, NumPy, and matplotlib, making it easier to apply robust and simple implementations of many popular machine learning algorithms.\nApache Spark is a unified analytics engine for large-scale data processing. It provides high-level APIs in Scala, Java, Python, and R, and an optimized engine that supports general computation graphs for data analysis. It also supports a rich set of higher-level tools including Spark SQL for SQL and DataFrames, MLlib for machine learning, GraphX for graph processing, and Structured Streaming for stream processing.\nApache PredictionIO is an open source machine learning framework for developers, data scientists, and end users. It supports event collection, deployment of algorithms, evaluation, querying predictive results via REST APIs. It is based on scalable open source services like Hadoop, HBase (and other DBs), Elasticsearch, Spark and implements what is called a Lambda Architecture.\nApache Airflow is an open-source workflow management platform created by the community to programmatically author, schedule and monitor workflows. Airflow has a modular architecture and uses a message queue to orchestrate an arbitrary number of workers. Airflow is ready to scale to infinity.\nOpen Neural Network Exchange(ONNX) is an open ecosystem that empowers AI developers to choose the right tools as their project evolves. ONNX provides an open source format for AI models, both deep learning and traditional ML. It defines an extensible computation graph model, as well as definitions of built-in operators and standard data types.\nBigDL is a distributed deep learning library for Apache Spark. With BigDL, users can write their deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters.",
@@ -581,11 +615,12 @@
                 "archived": false,
                 "id": 45497910,
                 "language": "Markdown",
-                "last_commit": "2026-08-26T14:13:38Z",
+                "last_commit": "2026-08-27T18:02:57Z",
                 "owner": "swiftlang",
                 "repo": "swift-evolution",
-                "stars": 15869
-              }
+                "stars": 15870
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -596,11 +631,12 @@
                 "archived": false,
                 "id": 44838949,
                 "language": "Swift",
-                "last_commit": "2026-08-27T11:03:12Z",
+                "last_commit": "2026-08-28T04:56:05Z",
                 "owner": "swiftlang",
                 "repo": "swift",
-                "stars": 70300
-              }
+                "stars": 70305
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             }
           ],
           "description": "Swift is Apple's main programming language for iOS, macOS, watchOS, and tvOS app development. Though, many parts of Swift will be familiar to developers from their experience of developing in C and Objective-C.\nXcode + Swift makes developing applications for MacOS and iOS fast and fun.\nSwift 5.3 Basics\nStart Developing iOS Apps with Swift\nApple Developer Documentation\nApple Foundation Framework\nApple Core Animation Framework\nApple Core Graphics Framework\nVirtualization Framework\nParavirtualized Graphics Framework\nGetting Started with LLDB\nMac Catalyst - iOS - Human Interface Guidelines\nAmazon EC2 Mac Instances\nApple Developer Forums\nSwift Forums\nGoogle's Swift Style Guide\nSwift Courses Online from Coursera\nSwift Courses Online from Udemy\nLearning Swift course from Codecademy",
@@ -618,11 +654,12 @@
                 "archived": false,
                 "id": 49910095,
                 "language": "Swift",
-                "last_commit": "2026-08-26T13:09:22Z",
+                "last_commit": "2026-08-28T00:55:36Z",
                 "owner": "vapor",
                 "repo": "vapor",
                 "stars": 26192
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -637,7 +674,8 @@
                 "owner": "HeroTransitions",
                 "repo": "Hero",
                 "stars": 22488
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -651,8 +689,9 @@
                 "last_commit": "2026-08-25T15:09:33Z",
                 "owner": "onevcat",
                 "repo": "Kingfisher",
-                "stars": 24394
-              }
+                "stars": 24393
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -666,8 +705,9 @@
                 "last_commit": "2026-06-14T23:57:29Z",
                 "owner": "realm",
                 "repo": "realm-swift",
-                "stars": 16612
-              }
+                "stars": 16614
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -682,7 +722,8 @@
                 "owner": "PerfectlySoft",
                 "repo": "Perfect",
                 "stars": 13742
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -697,7 +738,8 @@
                 "owner": "Alamofire",
                 "repo": "Alamofire",
                 "stars": 42423
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -712,7 +754,8 @@
                 "owner": "xmartlabs",
                 "repo": "Eureka",
                 "stars": 11803
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -727,7 +770,8 @@
                 "owner": "Carthage",
                 "repo": "Carthage",
                 "stars": 15166
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -742,7 +786,8 @@
                 "owner": "ReactiveCocoa",
                 "repo": "ReactiveCocoa",
                 "stars": 19815
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             }
           ],
           "description": "Xcode includes everything developers need to create great applications for Mac, iPhone, iPad, Apple TV, and Apple Watch. Xcode provides developers a unified workflow for user interface design, coding, testing, and debugging. Xcode 12 is built as an Universal app that runs 100% natively on Intel-based CPUs and Apple Silicon. It includes a unified macOS SDK that features all the frameworks, compilers, debuggers, and other tools you need to build apps that run natively on Apple Silicon and the Intel x86_64 CPU.\nSwiftUI is a user interface toolkit that provides views, controls, and layout structures for declaring your app's user interface. The SwiftUI framework provides event handlers for delivering taps, gestures, and other types of input to your application.\nUIKit is a framework provides the required infrastructure for your iOS or tvOS apps. It provides the window and view architecture for implementing your interface, the event handling infrastructure for delivering Multi-Touch and other types of input to your app, and the main run loop needed to manage interactions among the user, the system, and your app.\nAppKit is a graphical user interface toolkit that contains all the objects you need to implement the user interface for a macOS app such as windows, panels, buttons, menus, scrollers, and text fields, and it handles all the details for you as it efficiently draws on the screen, communicates with hardware devices and screen buffers, clears areas of the screen before drawing, and clips views.\nARKit is a set set of software development tools to enable developers to build augmented-reality apps for iOS developed by Apple. The latest version ARKit 3.5 takes advantage of the new LiDAR Scanner and depth sensing system on iPad Pro(2020) to support a new generation of AR apps that use Scene Geometry for enhanced scene understanding and object occlusion.\nRealityKit is a framework to implement high-performance 3D simulation and rendering with information provided by the ARKit framework to seamlessly integrate virtual objects into the real world.\nSceneKit is a high-level 3D graphics framework that helps you create 3D animated scenes and effects in your iOS apps.\nMac Catalyst is a set of Apple APIs that developers can use to rapidly port their iOS apps to Apple Silicon M1 Chip and take full advantage of the new capabilities on the new Apple hardware.\nInstruments is a powerful and flexible performance-analysis and testing tool that’s part of the Xcode tool set. It’s designed to help you profile your iOS, watchOS, tvOS, and macOS apps, processes, and devices in order to better understand and optimize their behavior and performance.\nCocoapods is a dependency manager for Swift and Objective-C used in Xcode projects by specifying the dependencies for your project in a simple text file. CocoaPods then recursively resolves dependencies between libraries, fetches source code for all dependencies, and creates and maintains an Xcode workspace to build your project.\nAppCode is constantly monitoring the quality of your code. It warns you of errors and smells and suggests quick-fixes to resolve them automatically. AppCode provides lots of code inspections for Objective-C, Swift, C/C++, and a number of code inspections for other supported languages.",
@@ -769,8 +814,9 @@
                 "last_commit": "2026-06-14T23:57:29Z",
                 "owner": "realm",
                 "repo": "realm-swift",
-                "stars": 16612
-              }
+                "stars": 16614
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -784,8 +830,9 @@
                 "last_commit": "2026-08-27T11:11:18Z",
                 "owner": "facebook",
                 "repo": "infer",
-                "stars": 15691
-              }
+                "stars": 15692
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -800,7 +847,8 @@
                 "owner": "Mantle",
                 "repo": "Mantle",
                 "stars": 11255
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -815,7 +863,8 @@
                 "owner": "Quick",
                 "repo": "Quick",
                 "stars": 9827
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -830,7 +879,8 @@
                 "owner": "steipete",
                 "repo": "Aspects",
                 "stars": 8422
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -844,8 +894,9 @@
                 "last_commit": "2026-07-08T21:13:24Z",
                 "owner": "Hammerspoon",
                 "repo": "hammerspoon",
-                "stars": 16000
-              }
+                "stars": 16009
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -860,7 +911,8 @@
                 "owner": "jverkoey",
                 "repo": "nimbus",
                 "stars": 6416
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             }
           ],
           "description": "Xcode includes everything developers need to create great applications for Mac, iPhone, iPad, Apple TV, and Apple Watch. Xcode provides developers a unified workflow for user interface design, coding, testing, and debugging.\nAppKit is a graphical user interface toolkit that contains all the objects you need to implement the user interface for a macOS app such as windows, panels, buttons, menus, scrollers, and text fields, and it handles all the details for you as it efficiently draws on the screen, communicates with hardware devices and screen buffers, clears areas of the screen before drawing, and clips views.\nInstruments is a powerful and flexible performance-analysis and testing tool that’s part of the Xcode tool set. It’s designed to help you profile your iOS, watchOS, tvOS, and macOS apps, processes, and devices in order to better understand and optimize their behavior and performance.\nCocoapods is a dependency manager for Swift and Objective-C in your Xcode projects by specifying the dependencies for your project in a simple text file. CocoaPods then recursively resolves dependencies between libraries, fetches source code for all dependencies, and creates and maintains an Xcode workspace to build your project.\nAppCode is constantly monitoring the quality of your code. It warns you of errors and smells and suggests quick-fixes to resolve them automatically. AppCode provides lots of code inspections for Objective-C, Swift, C/C++, and a number of code inspections for other supported languages.",
@@ -888,7 +940,8 @@
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
                 "stars": 45280
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             }
           ],
           "description": "C++ is a cross-platform language that can be used to build high-performance applications developed by Bjarne Stroustrup, as an extension to the C language.\nC is a general-purpose, high-level language that was originally developed by Dennis M. Ritchie to develop the UNIX operating system at Bell Labs. It supports structured programming, lexical variable scope, and recursion, with a static type system. C also provides constructs that map efficiently to typical machine instructions, which makes it one was of the most widely used programming languages today.\nEmbedded C is a set of language extensions for the C programming language by the C Standards Committee to address issues that exist between C extensions for different embedded systems. The extensions hep enhance microprocessor features such as fixed-point arithmetic, multiple distinct memory banks, and basic I/O operations. This makes Embedded C the most popular embedded software language in the world.\nC & C++ Developer Tools from JetBrains\nOpen source C++ libraries on cppreference.com\nC++ Graphics libraries\nC++ Libraries in MATLAB\nC++ Tools and Libraries Articles\nGoogle C++ Style Guide\nIntroduction C++ Education course on Google Developers\nC++ style guide for Fuchsia\nC and C++ Coding Style Guide by OpenTitan\nChromium C++ Style Guide\nC++ Style Guide for ROS\nLearn C++\nLearn C : An Interactive C Tutorial\nC++ Institute\nC++ Online Training Courses on LinkedIn Learning\nC++ Tutorials on W3Schools\nLearn C Programming Online Courses on edX\nLearn C++ with Online Courses on edX\nLearn C++ on Codecademy\nCoding for Everyone: C and C++ course on Coursera\nC++ For C Programmers on Coursera\nTop C Courses on Coursera\nC++ Online Courses on Udemy\nTop C Courses on Udemy\nBasics of Embedded C Programming for Beginners on Udemy\nC++ For Programmers Course on Udacity\nC++ Fundamentals Course on Pluralsight\nIntroduction to C++ on MIT Free Online Course Materials\nIntroduction to C++ for Programmers | Harvard\nOnline C Courses | Harvard University",
@@ -906,11 +959,12 @@
                 "archived": false,
                 "id": 68312233,
                 "language": "CMake",
-                "last_commit": "2026-08-26T19:17:53Z",
+                "last_commit": "2026-08-28T05:39:48Z",
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27403
-              }
+                "stars": 27402
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -924,8 +978,9 @@
                 "last_commit": "2026-05-18T12:47:02Z",
                 "owner": "mono",
                 "repo": "CppSharp",
-                "stars": 3406
-              }
+                "stars": 3405
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -940,7 +995,8 @@
                 "owner": "NVIDIA",
                 "repo": "thrust",
                 "stars": 5002
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -955,7 +1011,8 @@
                 "owner": "bytedeco",
                 "repo": "javacpp",
                 "stars": 4705
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -969,8 +1026,9 @@
                 "last_commit": "2026-08-08T10:51:08Z",
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29530
-              }
+                "stars": 29535
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             }
           ],
           "description": "Visual Studio is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.\nVisual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.\nReSharper C++ is a Visual Studio Extension for C++ developers developed by JetBrains.\nAppCode is constantly monitoring the quality of your code. It warns you of errors and smells and suggests quick-fixes to resolve them automatically. AppCode provides lots of code inspections for Objective-C, Swift, C/C++, and a number of code inspections for other supported languages. All code inspections are run on the fly.\nCLion is a cross-platform IDE for C and C++ developers developed by JetBrains.\nCode::Blocks is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable. Built around a plugin framework, Code::Blocks can be extended with plugins.\nConan is an Open Source Package Manager for C++ development and dependency management into the 21st century and on par with the other development ecosystems.\nHigh Performance Computing (HPC) SDK is a comprehensive toolbox for GPU accelerating HPC modeling and simulation applications. It includes the C, C++, and Fortran compilers, libraries, and analysis tools necessary for developing HPC applications on the NVIDIA platform.\nBoost is an educational opportunity focused on cutting-edge C++. Boost has been a participant in the annual Google Summer of Code since 2007, in which students develop their skills by working on Boost Library development.\nAutomake is a tool for automatically generating Makefile.in files compliant with the GNU Coding Standards. Automake requires the use of GNU Autoconf.\nCmake is an open-source, cross-platform family of tools designed to build, test and package software. CMake is used to control the software compilation process using simple platform and compiler independent configuration files, and generate native makefiles and workspaces that can be used in the compiler environment of your choice.\nGDB is a debugger, that allows you to see what is going on `inside' another program while it executes or what another program was doing at the moment it crashed.\nGCC is a compiler Collection that includes front ends for C, C++, Objective-C, Fortran, Ada, Go, and D, as well as libraries for these languages.\nGSL is a numerical library for C and C++ programmers. It is free software under the GNU General Public License. The library provides a wide range of mathematical routines such as random number generators, special functions and least-squares fitting. There are over 1000 functions in total with an extensive test suite.\nOpenGL Extension Wrangler Library (GLEW) is a cross-platform open-source C/C++ extension loading library. GLEW provides efficient run-time mechanisms for determining which OpenGL extensions are supported on the target platform.\nLibtool is a generic library support script that hides the complexity of using shared libraries behind a consistent, portable interface. To use Libtool, add the new generic library building commands to your Makefile, Makefile.in, or Makefile.am.\nMaven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.\nTAU (Tuning And Analysis Utilities) is capable of gathering performance information through instrumentation of functions, methods, basic blocks, and statements as well as event-based sampling. All C++ language features are supported including templates and namespaces.\nClang is a production quality C, Objective-C, C++ and Objective-C++ compiler when targeting X86-32, X86-64, and ARM (other targets may have caveats, but are usually easy to fix). Clang is used in production to build performance-critical software like Google Chrome or Firefox.\nOpenCV is a highly optimized library with focus on real-time applications. Cross-Platform C++, Python and Java interfaces support Linux, MacOS, Windows, iOS, and Android.\nLibcu++ is the NVIDIA C++ Standard Library for your entire system. It provides a heterogeneous implementation of the C++ Standard Library that can be used in and between CPU and GPU code.\nANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build parse trees and also generates a listener interface that makes it easy to respond to the recognition of phrases of interest.\nOat++ is a light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.\nCython is a language that makes writing C extensions for Python as easy as Python itself. Cython is based on Pyrex, but supports more cutting edge functionality and optimizations such as calling C functions and declaring C types on variables and class attributes.\nInfer is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in OCaml.",
@@ -998,7 +1056,8 @@
                 "owner": "ForrestKnight",
                 "repo": "open-source-cs-python",
                 "stars": 3961
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             }
           ],
           "description": "Python is an interpreted, high-level programming language. Python is used heavily in the fields of Data Science and Machine Learning.\nPython Developer’s Guide is a comprehensive resource for contributing to Python – for both new and experienced contributors. It is maintained by the same community that maintains Python.\nAzure Functions Python developer guide is an introduction to developing Azure Functions using Python. The content below assumes that you've already read the Azure Functions developers guide.\nCheckiO is a programming learning platform and a gamified website that teaches Python through solving code challenges and competing for the most elegant and creative solutions.\nPython Institute\nPCEP – Certified Entry-Level Python Programmer certification\nPCAP – Certified Associate in Python Programming certification\nPCPP – Certified Professional in Python Programming 1 certification\nPCPP – Certified Professional in Python Programming 2\nMTA: Introduction to Programming Using Python Certification\nGetting Started with Python in Visual Studio Code\nGoogle's Python Style Guide\nGoogle's Python Education Class\nReal Python\nIntro to Python for Data Science\nIntro to Python by W3schools\nCodecademy's Python 3 course\nLearn Python with Online Courses and Classes from edX\nPython Courses Online from Coursera",
@@ -1020,7 +1079,8 @@
                 "owner": "aws",
                 "repo": "chalice",
                 "stars": 11061
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -1034,8 +1094,9 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38460
-              }
+                "stars": 38465
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -1050,7 +1111,8 @@
                 "owner": "pypa",
                 "repo": "pipenv",
                 "stars": 25035
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -1064,8 +1126,9 @@
                 "last_commit": "2026-07-01T08:19:02Z",
                 "owner": "google",
                 "repo": "python-fire",
-                "stars": 28209
-              }
+                "stars": 28210
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -1079,8 +1142,9 @@
                 "last_commit": "2026-07-19T07:21:52Z",
                 "owner": "bottlepy",
                 "repo": "bottle",
-                "stars": 8779
-              }
+                "stars": 8778
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -1095,7 +1159,8 @@
                 "owner": "sanic-org",
                 "repo": "sanic",
                 "stars": 18645
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -1110,7 +1175,8 @@
                 "owner": "microsoft",
                 "repo": "nni",
                 "stars": 14360
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -1124,8 +1190,9 @@
                 "last_commit": "2026-07-18T11:15:46Z",
                 "owner": "spotify",
                 "repo": "luigi",
-                "stars": 18765
-              }
+                "stars": 18768
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -1139,8 +1206,9 @@
                 "last_commit": "2026-08-26T17:46:29Z",
                 "owner": "locustio",
                 "repo": "locust",
-                "stars": 28107
-              }
+                "stars": 28109
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             },
             {
               "node_type": "item",
@@ -1154,8 +1222,9 @@
                 "last_commit": "2026-08-24T08:26:10Z",
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 33854
-              }
+                "stars": 33856
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             }
           ],
           "description": "Python Package Index (PyPI) is a repository of software for the Python programming language. PyPI helps you find and install software developed and shared by the Python community.\nPyCharm is the best IDE I've ever used. With PyCharm, you can access the command line, connect to a database, create a virtual environment, and manage your version control system all in one place, saving time by avoiding constantly switching between windows.\nPython Tools for Visual Studio(PTVS) is a free, open source plugin that turns Visual Studio into a Python IDE. It supports editing, browsing, IntelliSense, mixed Python/C++ debugging, remote Linux/MacOS debugging, profiling, IPython, and web development with Django and other frameworks.\nDjango is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.\nFlask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries.\nWeb2py is an open-source web application framework written in Python allowing allows web developers to program dynamic web content. One web2py instance can run multiple web sites using different databases.\nTornado is a Python web framework and asynchronous networking library. Tornado uses a non-blocking network I/O, which can scale to tens of thousands of open connections.\nScrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing.\nSentry is a service that helps you monitor and fix crashes in realtime. The server is in Python, but it contains a full API for sending events from any language, in any application.\nCherryPy is a minimalist Python object-oriented HTTP web framework.\nPyramid is a small and fast open source Python web framework. It makes real-world web application development and deployment more fun and more productive.\nTurboGears is a hybrid web framework able to act both as a Full Stack framework or as a Microframework.\nFalcon is a reliable, high-performance Python web framework for building large-scale app backends and microservices with support for MongoDB, Pluggable Applications and autogenerated Admin.\nDash is a popular Python framework for building ML & data science web apps for Python, R, Julia, and Jupyter.\nNumPy is the fundamental package needed for scientific computing with Python.\nPillow is a friendly PIL(Python Imaging Library) fork.\nIPython is a command shell for interactive computing in multiple programming languages, originally developed for the Python programming language, that offers enhanced introspection, rich media, additional shell syntax, tab completion, and rich history.\nGraphLab Create is a Python library, backed by a C++ engine, for quickly building large-scale, high-performance machine learning models.\nPandas is a fast, powerful, and easy to use open source data structrures, data analysis and manipulation tool, built on top of the Python programming language.\nPuLP is an Linear Programming modeler written in python. PuLP can generate LP files and call on use highly optimized solvers, GLPK, COIN CLP/CBC, CPLEX, and GUROBI, to solve these linear problems.\nMatplotlib is a 2D plotting library for creating static, animated, and interactive visualizations in Python. Matplotlib produces publication-quality figures in a variety of hardcopy formats and interactive environments across platforms.\nScikit-Learn is a simple and efficient tool for data mining and data analysis. It is built on NumPy,SciPy, and mathplotlib.",
@@ -1177,7 +1246,8 @@
                 "owner": "mikeroyal",
                 "repo": "CoreML-Guide",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T06:57:08.701Z"
             }
           ],
           "description": null,
@@ -1189,7 +1259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:31:02.411Z",
+    "last_updated": "2026-08-28T06:57:08.701Z",
     "original_repository_info": {
       "archived": false,
       "id": 403407804,
