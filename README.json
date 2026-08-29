@@ -1096,8 +1096,8 @@
                 "id": 44838949,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T02:36:28Z",
-                "open_issues": 9252,
+                "last_commit": "2026-08-29T04:56:58Z",
+                "open_issues": 9251,
                 "owner": "swiftlang",
                 "repo": "swift",
                 "stars": 70308,
@@ -2233,7 +2233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:11:30.286Z",
+    "last_updated": "2026-08-29T04:59:55.127Z",
     "original_repository_info": {
       "archived": false,
       "description": "Core ML Guide",

@@ -654,7 +654,7 @@ Developing with SwiftUI in Xcode 12
 
 [Amazon EC2 Mac Instances](https://aws.amazon.com/ec2/instance-types/mac/)
 
-[Swift GitHub](https://github.com/apple/swift) ⭐ 70,308 | 🐛 9,252 | 🌐 Swift | 📅 2026-08-29
+[Swift GitHub](https://github.com/apple/swift) ⭐ 70,308 | 🐛 9,251 | 🌐 Swift | 📅 2026-08-29
 
 [Apple Developer Forums](https://developer.apple.com/forums/)
 
