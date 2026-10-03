@@ -15,33 +15,33 @@
 
 # Table of Contents
 
-1. [Core ML Learning Resources](https://github.com/mikeroyal/CoreML-Guide#core-ml-learning-resources) ⭐ 93 | 🐛 0 | 🌐 Swift | 📅 2022-02-06
+1. [Core ML Learning Resources](https://github.com/mikeroyal/CoreML-Guide#core-ml-learning-resources)
 
-2. [Core ML Tools, Libraries, and Frameworks](https://github.com/mikeroyal/CoreML-Guide#core-ml-tools-libraries-and-frameworks) ⭐ 93 | 🐛 0 | 🌐 Swift | 📅 2022-02-06
+2. [Core ML Tools, Libraries, and Frameworks](https://github.com/mikeroyal/CoreML-Guide#core-ml-tools-libraries-and-frameworks)
 
-3. [Apple Silicon](https://github.com/mikeroyal/CoreML-Guide#apple-silicon) ⭐ 93 | 🐛 0 | 🌐 Swift | 📅 2022-02-06
+3. [Apple Silicon](https://github.com/mikeroyal/CoreML-Guide#apple-silicon)
 
-4. [Algorithms](https://github.com/mikeroyal/CoreML-Guide#algorithms) ⭐ 93 | 🐛 0 | 🌐 Swift | 📅 2022-02-06
+4. [Algorithms](https://github.com/mikeroyal/CoreML-Guide#algorithms)
 
-5. [Machine Learning](https://github.com/mikeroyal/CoreML-Guide#machine-learning) ⭐ 93 | 🐛 0 | 🌐 Swift | 📅 2022-02-06
+5. [Machine Learning](https://github.com/mikeroyal/CoreML-Guide#machine-learning)
 
-6. [Computer Vision Development](https://github.com/mikeroyal/CoreML-Guide#computer-vision-development) ⭐ 93 | 🐛 0 | 🌐 Swift | 📅 2022-02-06
+6. [Computer Vision Development](https://github.com/mikeroyal/CoreML-Guide#computer-vision-development)
 
-7. [Natural Language Processing (NLP) Development](https://github.com/mikeroyal/CoreML-Guide#natural-language-processing-nlp-development) ⭐ 93 | 🐛 0 | 🌐 Swift | 📅 2022-02-06
+7. [Natural Language Processing (NLP) Development](https://github.com/mikeroyal/CoreML-Guide#natural-language-processing-nlp-development)
 
-8. [Metal(API) Development](https://github.com/mikeroyal/CoreML-Guide#metal-api-development) ⭐ 93 | 🐛 0 | 🌐 Swift | 📅 2022-02-06
+8. [Metal(API) Development](https://github.com/mikeroyal/CoreML-Guide#metal-api-development)
 
-9. [Swift Development](https://github.com/mikeroyal/CoreML-Guide#swift-development) ⭐ 93 | 🐛 0 | 🌐 Swift | 📅 2022-02-06
+9. [Swift Development](https://github.com/mikeroyal/CoreML-Guide#swift-development)
 
-10. [Objective-C Development](https://github.com/mikeroyal/CoreML-Guide#objective-c-development) ⭐ 93 | 🐛 0 | 🌐 Swift | 📅 2022-02-06
+10. [Objective-C Development](https://github.com/mikeroyal/CoreML-Guide#objective-c-development)
 
-11. [C/C++ Development](https://github.com/mikeroyal/CoreML-Guide#cc-development) ⭐ 93 | 🐛 0 | 🌐 Swift | 📅 2022-02-06
+11. [C/C++ Development](https://github.com/mikeroyal/CoreML-Guide#cc-development)
 
-12. [Python Development](https://github.com/mikeroyal/CoreML-Guide#python-development) ⭐ 93 | 🐛 0 | 🌐 Swift | 📅 2022-02-06
+12. [Python Development](https://github.com/mikeroyal/CoreML-Guide#python-development)
 
 # Awesome Core ML Learning Resources with stars
 
-[Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents) ⭐ 93 | 🐛 0 | 🌐 Swift | 📅 2022-02-06
+[Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents)
 
 [Core ML](https://developer.apple.com/documentation/coreml) is an Apple framework for integrating machine learning models into apps running on Apple devices (including iOS, watchOS, macOS, and tvOS). Core ML introduces a public file format (.mlmodel) for a broad set of ML methods including deep neural networks (both convolutional and recurrent), tree ensembles with boosting, and generalized linear models. Models in this format can be directly integrated into apps through Xcode.
 
@@ -67,7 +67,7 @@
 
 # Core ML Tools, Libraries, and Frameworks
 
-[Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents) ⭐ 93 | 🐛 0 | 🌐 Swift | 📅 2022-02-06
+[Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents)
 
 [Core ML tools](https://coremltools.readme.io/) is a project that contains supporting tools for Core ML model conversion, editing, and validation.
 
@@ -111,7 +111,7 @@
 
 # Apple Silicon
 
-[Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents) ⭐ 93 | 🐛 0 | 🌐 Swift | 📅 2022-02-06
+[Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/105645197-de010180-5e4e-11eb-823b-c2152b3223ef.jpeg">
@@ -161,7 +161,7 @@
 
 # Algorithms
 
-[Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents) ⭐ 93 | 🐛 0 | 🌐 Swift | 📅 2022-02-06
+[Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents)
 
 [Fuzzy logic](https://www.investopedia.com/terms/f/fuzzy-logic.asp) is a heuristic approach that allows for more advanced decision-tree processing and better integration with rules-based programming.
 
@@ -246,7 +246,7 @@
 
 # Machine Learning
 
-[Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents) ⭐ 93 | 🐛 0 | 🌐 Swift | 📅 2022-02-06
+[Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/96352527-ad077880-1078-11eb-98b7-da1c0586cf0e.png">
@@ -351,17 +351,17 @@
 
 [Tensorman](https://github.com/pop-os/tensorman) ⭐ 206 | 🐛 11 | 🌐 Rust | 📅 2025-10-27 is a utility for easy management of Tensorflow containers by developed by [System76](https://system76.com).Tensorman allows Tensorflow to operate in an isolated environment that is contained from the rest of the system. This virtual environment can operate independent of the base system, allowing you to use any version of Tensorflow on any version of a Linux distribution that supports the Docker runtime.
 
-[Numba](https://github.com/numba/numba) ⭐ 11,169 | 🐛 1,819 | 🌐 Python | 📅 2026-10-02 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
+[Numba](https://github.com/numba/numba) ⭐ 11,169 | 🐛 1,820 | 🌐 Python | 📅 2026-10-02 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
 
 [Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,351 | 🐛 686 | 🌐 Python | 📅 2026-10-02 for high performance training and inference.
 
 [XGBoost](https://xgboost.readthedocs.io/) is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. It supports distributed training on multiple machines, including AWS, GCE, Azure, and Yarn clusters. Also, it can be integrated with Flink, Spark and other cloud dataflow systems.
 
-[cuML](https://github.com/rapidsai/cuml) ⭐ 5,296 | 🐛 807 | 🌐 Python | 📅 2026-10-02 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
+[cuML](https://github.com/rapidsai/cuml) ⭐ 5,296 | 🐛 808 | 🌐 Python | 📅 2026-10-03 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
 
 # Computer Vision Development
 
-[Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents) ⭐ 93 | 🐛 0 | 🌐 Swift | 📅 2022-02-06
+[Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/129494417-b0ee8192-ac41-4a6d-8e1d-4761ffc8bab1.png">
@@ -442,7 +442,7 @@
 
 # Natural Language Processing (NLP) Development
 
-[Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents) ⭐ 93 | 🐛 0 | 🌐 Swift | 📅 2022-02-06
+[Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/131386286-e23991d5-a1aa-4ee9-9582-874dc0854c1a.png">
@@ -539,11 +539,11 @@
 
 [BigDL](https://bigdl-project.github.io/) is a distributed deep learning library for Apache Spark. With BigDL, users can write their deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters.
 
-[Numba](https://github.com/numba/numba) ⭐ 11,169 | 🐛 1,819 | 🌐 Python | 📅 2026-10-02 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
+[Numba](https://github.com/numba/numba) ⭐ 11,169 | 🐛 1,820 | 🌐 Python | 📅 2026-10-02 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
 
 # Metal (API) Development
 
-[Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents) ⭐ 93 | 🐛 0 | 🌐 Swift | 📅 2022-02-06
+[Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/129622324-243aca6c-1feb-4b16-abef-70ad8b97f488.png">
@@ -612,7 +612,7 @@
 
 # Swift Development
 
-[Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents) ⭐ 93 | 🐛 0 | 🌐 Swift | 📅 2022-02-06
+[Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93719675-03949c00-fb39-11ea-8f81-bf4cd544c17f.png">
@@ -654,7 +654,7 @@ Developing with SwiftUI in Xcode 12
 
 [Amazon EC2 Mac Instances](https://aws.amazon.com/ec2/instance-types/mac/)
 
-[Swift GitHub](https://github.com/apple/swift) ⭐ 70,451 | 🐛 9,393 | 🌐 Swift | 📅 2026-10-03
+[Swift GitHub](https://github.com/apple/swift) ⭐ 70,450 | 🐛 9,391 | 🌐 Swift | 📅 2026-10-03
 
 [Apple Developer Forums](https://developer.apple.com/forums/)
 
@@ -712,7 +712,7 @@ Developing with SwiftUI in Xcode 12
 
 # Objective-C Development
 
-[Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents) ⭐ 93 | 🐛 0 | 🌐 Swift | 📅 2022-02-06
+[Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/121821278-e6ff3d80-cc4c-11eb-9a57-c7aa13b88b30.png">
@@ -764,7 +764,7 @@ Developing with SwiftUI in Xcode 12
 
 # C/C++ Development
 
-[Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents) ⭐ 93 | 🐛 0 | 🌐 Swift | 📅 2022-02-06
+[Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/115297894-961e0d80-a111-11eb-81c3-e2bd2ac9a7cd.png">
@@ -799,7 +799,7 @@ Developing with SwiftUI in Xcode 12
 
 [Chromium C++ Style Guide](https://chromium.googlesource.com/chromium/src/+/master/styleguide/c++/c++.md)
 
-[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,352 | 🐛 246 | 🌐 CSS | 📅 2026-10-01
+[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,353 | 🐛 246 | 🌐 CSS | 📅 2026-10-01
 
 [C++ Style Guide for ROS](http://wiki.ros.org/CppStyleGuide)
 
@@ -847,7 +847,7 @@ Developing with SwiftUI in Xcode 12
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,512 | 🐛 1,089 | 🌐 CMake | 📅 2026-10-03 is a C++ Library Manager for Windows, Linux, and MacOS.
+[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,513 | 🐛 1,092 | 🌐 CMake | 📅 2026-10-03 is a C++ Library Manager for Windows, Linux, and MacOS.
 
 [ReSharper C++](https://www.jetbrains.com/resharper-cpp/features/) is a Visual Studio Extension for C++ developers developed by JetBrains.
 
@@ -905,7 +905,7 @@ Developing with SwiftUI in Xcode 12
 
 # Python Development
 
-[Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents) ⭐ 93 | 🐛 0 | 🌐 Swift | 📅 2022-02-06
+[Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93133273-ce490380-f68b-11ea-81d0-7f6a3debe6c0.png">
@@ -1022,11 +1022,11 @@ Developing with SwiftUI in Xcode 12
 
 ## Contribute
 
-* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/CoreML-Guide/pulls) ⭐ 93 | 🐛 0 | 🌐 Swift | 📅 2022-02-06.
+* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/CoreML-Guide/pulls).
 
 ## License
 
-[Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents) ⭐ 93 | 🐛 0 | 🌐 Swift | 📅 2022-02-06
+[Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents)
 
 Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
 
