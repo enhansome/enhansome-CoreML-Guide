@@ -117,7 +117,7 @@
                 "open_issues": 1176,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34555,
+                "stars": 34556,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -142,7 +142,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10014,
+                "stars": 10016,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:08.701Z"
@@ -218,7 +218,7 @@
                 "open_issues": 521,
                 "owner": "yahoo",
                 "repo": "CMAK",
-                "stars": 11919,
+                "stars": 11918,
                 "topics": [
                   "big-data",
                   "cluster-management",
@@ -265,7 +265,7 @@
                 "open_issues": 1843,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11211,
+                "stars": 11213,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -290,8 +290,8 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T00:41:37Z",
-                "open_issues": 793,
+                "last_commit": "2026-11-14T23:51:31Z",
+                "open_issues": 788,
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5321,
@@ -508,7 +508,7 @@
                 "open_issues": 1176,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34555,
+                "stars": 34556,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -533,7 +533,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10014,
+                "stars": 10016,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:08.701Z"
@@ -575,7 +575,7 @@
                 "open_issues": 1843,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11211,
+                "stars": 11213,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -634,11 +634,11 @@
                 "id": 44838949,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T23:53:45Z",
-                "open_issues": 9592,
+                "last_commit": "2026-11-14T22:57:50Z",
+                "open_issues": 9580,
                 "owner": "swiftlang",
                 "repo": "swift",
-                "stars": 70556,
+                "stars": 70557,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:08.701Z"
@@ -666,7 +666,7 @@
                 "open_issues": 90,
                 "owner": "vapor",
                 "repo": "vapor",
-                "stars": 26239,
+                "stars": 26238,
                 "topics": [
                   "framework",
                   "http",
@@ -731,11 +731,11 @@
                 "id": 33486016,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-14T03:08:35Z",
-                "open_issues": 145,
+                "last_commit": "2026-11-14T09:06:18Z",
+                "open_issues": 143,
                 "owner": "onevcat",
                 "repo": "Kingfisher",
-                "stars": 24410,
+                "stars": 24411,
                 "topics": [
                   "cache",
                   "filters",
@@ -797,7 +797,7 @@
                 "open_issues": 54,
                 "owner": "PerfectlySoft",
                 "repo": "Perfect",
-                "stars": 13720,
+                "stars": 13719,
                 "topics": [
                   "perfect",
                   "server-side-swift",
@@ -821,7 +821,7 @@
                 "id": 22458259,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-14T02:05:45Z",
+                "last_commit": "2026-11-15T02:41:09Z",
                 "open_issues": 44,
                 "owner": "Alamofire",
                 "repo": "Alamofire",
@@ -862,7 +862,7 @@
                 "open_issues": 179,
                 "owner": "xmartlabs",
                 "repo": "Eureka",
-                "stars": 11803,
+                "stars": 11802,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -990,7 +990,7 @@
                 "open_issues": 196,
                 "owner": "meta",
                 "repo": "infer",
-                "stars": 15753,
+                "stars": 15755,
                 "topics": [
                   "c",
                   "code-quality",
@@ -1044,7 +1044,7 @@
                 "open_issues": 49,
                 "owner": "Quick",
                 "repo": "Quick",
-                "stars": 9820,
+                "stars": 9819,
                 "topics": [
                   "bdd",
                   "carthage",
@@ -1100,7 +1100,7 @@
                 "open_issues": 708,
                 "owner": "Hammerspoon",
                 "repo": "hammerspoon",
-                "stars": 16420,
+                "stars": 16429,
                 "topics": [
                   "automation",
                   "hammerspoon",
@@ -1193,11 +1193,11 @@
                 "id": 68312233,
                 "language": "CMake",
                 "license": "MIT",
-                "last_commit": "2026-11-14T01:35:11Z",
-                "open_issues": 1035,
+                "last_commit": "2026-11-14T07:07:46Z",
+                "open_issues": 1056,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27597,
+                "stars": 27600,
                 "topics": [
                   "c",
                   "cmake",
@@ -1309,7 +1309,7 @@
                 "open_issues": 113,
                 "owner": "bytedeco",
                 "repo": "javacpp",
-                "stars": 4704,
+                "stars": 4705,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -1378,7 +1378,7 @@
                 "open_issues": 19,
                 "owner": "ForrestKnight",
                 "repo": "open-source-cs-python",
-                "stars": 3961,
+                "stars": 3960,
                 "topics": [
                   "computer-science"
                 ]
@@ -1440,7 +1440,7 @@
                 "open_issues": 362,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38712,
+                "stars": 38716,
                 "topics": [
                   "api",
                   "api-client",
@@ -1478,11 +1478,11 @@
                 "id": 79510167,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-11T17:42:12Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-14T15:57:27Z",
+                "open_issues": 5,
                 "owner": "pypa",
                 "repo": "pipenv",
-                "stars": 25023,
+                "stars": 25024,
                 "topics": [
                   "packaging",
                   "pip",
@@ -1509,7 +1509,7 @@
                 "open_issues": 228,
                 "owner": "google",
                 "repo": "python-fire",
-                "stars": 28226,
+                "stars": 28225,
                 "topics": [
                   "cli",
                   "python"
@@ -1530,7 +1530,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-25T16:40:59Z",
-                "open_issues": 288,
+                "open_issues": 289,
                 "owner": "bottlepy",
                 "repo": "bottle",
                 "stars": 8799,
@@ -1560,7 +1560,7 @@
                 "open_issues": 164,
                 "owner": "sanic-org",
                 "repo": "sanic",
-                "stars": 18632,
+                "stars": 18633,
                 "topics": [
                   "api-server",
                   "asgi",
@@ -1660,7 +1660,7 @@
                 "open_issues": 17,
                 "owner": "locustio",
                 "repo": "locust",
-                "stars": 28282,
+                "stars": 28285,
                 "topics": [
                   "benchmarking",
                   "http",
@@ -1693,7 +1693,7 @@
                 "open_issues": 270,
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 34051,
+                "stars": 34053,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1726,7 +1726,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T03:21:15.354Z",
+    "last_updated": "2026-11-15T02:44:51.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "Core ML Guide",
